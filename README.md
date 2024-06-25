@@ -28,7 +28,7 @@ Download the dataset from [Kaggle Machine Learning](https://www.kaggle.com/datas
     ```
     
     ```bash
-venv\Scripts\activate
+    venv\Scripts\activate
     ```
 
 3. Install the dependencies:
