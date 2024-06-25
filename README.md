@@ -2,6 +2,10 @@
 
 This project aims to detect fake news using machine learning. The project includes a Flask-based application that serves both backend (for model training and prediction) and frontend (for user interaction).
 
+# Web Page :
+
+![alt text](image.png)
+
 ## Folder Structure
 
 - `app.py`: Main application file combining both frontend and backend.
