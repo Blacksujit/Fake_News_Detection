@@ -1,0 +1,23 @@
+## Problems and technical errors  that i have faced while developing this project
+
+
+1.) circular import error from app import app it was giving error 
+
+ans . to resolve this add the error handling blocks arround the import 
+
+2.) Activate or do consider the addition of the virtual environment because it consolidate your code
+
+3.) the api and data fetching errors also encountered when ever clicks on the predict function it si not showing the result
+
+ans> convert it into the integer int64 
+
+  E.X.:-      # Convert numpy.int64 to Python int
+        prediction = int(prediction)
+        return jsonify({'prediction': prediction})
+    except Exception as e:
+        print(f"Error during prediction: {e}")
+        return jsonify({'error': str(e)}), 500
+
+the above is the code block which is added to resolve the error error handling is also made in it
+
+
