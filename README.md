@@ -23,6 +23,10 @@ Download the dataset from [Kaggle Machine Learning](https://www.kaggle.com/datas
 
 1. Clone the repository.
 
+    ```bash
+    git clone https://github.com/Blacksujit/Fake_News_Detection.git
+    ```
+
 2. Download a dataset suitable for fake news detection and place the file in the `data/` folder (e.g., `fakenews.csv`).
 
 3. Virtual Environment setup
