@@ -1,0 +1,10 @@
+*.log
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.db
+.env
+.DS_Store
+node_modules/
+tests/
