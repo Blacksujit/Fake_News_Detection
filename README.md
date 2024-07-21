@@ -8,7 +8,7 @@ This project aims to detect fake news using machine learning. The project includ
 
 ## Folder Structure
 
-- `app.py`: Main application file combining both frontend and backend.
+- `run.py`: Main application file combining both frontend and backend.
 - `model/`: Contains the trained model and script to train the model.
 - `requirements.txt`: Dependencies for the project.
 - `static/`: Static files (CSS, JS).
