@@ -2,10 +2,6 @@
 
 This project aims to detect fake news using machine learning. The project includes a Flask-based application that serves both backend (for model training and prediction) and frontend (for user interaction).
 
-# Live Link:
-
-https://forest-fire-prediction-of6q.onrender.com/
-
 # Web Page :
 
 ![alt text](image.png)
